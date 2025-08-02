@@ -1,4 +1,4 @@
-# Building a SOC and honey pot in Azure with live traffic
+# Building a SOC and honey net in Azure with live traffic
 The first steps for this home lab are to create a resource group, virtual network, and a virtual machine.
 
 <img width="1270" height="285" alt="image" src="https://github.com/user-attachments/assets/47e0fc30-6f39-4e90-a94f-64b6e4b97779" />
@@ -41,3 +41,6 @@ Added a geo location database.
 # Heatmap
 View of the heatmap.
 <img width="2532" height="1144" alt="image" src="https://github.com/user-attachments/assets/efee2b23-5d44-45ac-ac36-1ba1a744d193" />
+
+# Takeaway
+A honey net was created in Microsoft Azure and log sources were integrated into a log analytics workspace. Microsoft Sentinel was used to trigger alerts and create incidents based on the logs. It's interesting see how much traffic was built up in such a short time frame. Emphasizes the point in having proper security configurations in place, although this example is a little exaggerated due to all firewalls being left wide open.
