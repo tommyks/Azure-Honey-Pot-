@@ -1,3 +1,6 @@
+# Introduction
+I built a honeynet in Azure and ingest log sources from various resources into a log analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents.
+
 # Building a SOC and honey net in Azure with live traffic
 The first steps for this home lab are to create a resource group, virtual network, and a virtual machine.
 
