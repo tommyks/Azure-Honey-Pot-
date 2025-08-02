@@ -21,7 +21,7 @@ Now I'll ping the virtual machine from my own device to ensure that the VM is re
 Next I'll need to connect a log analysis workspace to a SIEM (Microsoft Sentinel) and install/configure Windows Security Events.
 <img width="2524" height="1008" alt="image" src="https://github.com/user-attachments/assets/c4284035-884e-48fb-9a57-ab996cd76af5" />
 
-The monitoring tool is now instsalled.
+The monitoring tool is now installed.
 <img width="1905" height="432" alt="image" src="https://github.com/user-attachments/assets/e3350df9-0f3c-4493-8eb7-7d877efe6c66" />
 
 Next I'll head over to the log analytics workspace to verify the logs are being sent over. I'll run a KQL query to view the logged events.
@@ -46,4 +46,4 @@ View of the heatmap.
 <img width="2532" height="1144" alt="image" src="https://github.com/user-attachments/assets/efee2b23-5d44-45ac-ac36-1ba1a744d193" />
 
 # Takeaway
-A honey net was created in Microsoft Azure and log sources were integrated into a log analytics workspace. Microsoft Sentinel was used to trigger alerts and create incidents based on the logs. It's interesting see how much traffic was built up in such a short time frame. Emphasizes the point in having proper security configurations in place, although this example is a little exaggerated due to all firewalls being left wide open.
+A honey net was created in Microsoft Azure and log sources were integrated into a log analytics workspace. Microsoft Sentinel was used to trigger alerts and create incidents based on the logs. It's interesting see how much traffic was built up in such a short timeframe. Emphasizes the point in having proper security configurations in place, although this example is a little exaggerated due to all firewalls being left wide open.
