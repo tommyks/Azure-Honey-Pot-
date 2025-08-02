@@ -26,5 +26,14 @@ Only about 10 minutes have passed and over 1000 events have been forwarded over.
 Filtered the data a bit.
 <img width="1518" height="680" alt="image" src="https://github.com/user-attachments/assets/6518bcda-6c6d-48e9-b963-0f5e76c9e71d" />
 
-Looks like the first attacker in the table appears to be from Ukraine.
+Looks like the first attacker's IP in the table appears to be from Ukraine.
 <img width="1303" height="1077" alt="image" src="https://github.com/user-attachments/assets/d93506e2-eaf2-41f2-9646-95ea418c60f7" />
+
+Created a watchlist in order to track a heatmap of attacker geolocation.
+<img width="2478" height="784" alt="image" src="https://github.com/user-attachments/assets/7b048f66-9b1e-4fda-9c8c-fcf315a191bd" />
+
+Added a geo location database.
+<img width="2145" height="877" alt="image" src="https://github.com/user-attachments/assets/9b57a8aa-a021-4b46-b4bc-ca03ed0dc8af" />
+
+View of the heatmap.
+<img width="2532" height="1144" alt="image" src="https://github.com/user-attachments/assets/efee2b23-5d44-45ac-ac36-1ba1a744d193" />
