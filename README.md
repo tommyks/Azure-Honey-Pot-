@@ -6,7 +6,7 @@ The first steps for this home lab are to create a resource group, virtual networ
 
 <img width="1270" height="285" alt="image" src="https://github.com/user-attachments/assets/47e0fc30-6f39-4e90-a94f-64b6e4b97779" />
 
-The next thing to do is to edit the inbound security rules of the firewall to allow any traffic from anywhere to passthrough to try and capture as much traffic as possible.
+The next thing to do is to edit the inbound security rules of the firewall to allow any traffic from anywhere to try and capture as much traffic as possible.
 
 <img width="566" height="554" alt="image" src="https://github.com/user-attachments/assets/a0038d5d-3d0e-4b7f-8cbe-b980aa009fc4" />
 
